@@ -1,0 +1,21 @@
+.app-cont {
+  background-color: #ffffff;
+  border-radius: 6px;
+  height: 150px;
+  width: 150px !important;
+  margin: 10px;
+  display: flex;
+  flex-direction: column !important;
+  justify-content: space-around !important;
+  align-items: center;
+}
+
+.app-cont img {
+  width: 70px !important;
+  height: 70px;
+}
+
+.app-cont p {
+  font-size: 20px !important;
+  font-family: 'Bree Serif';
+}

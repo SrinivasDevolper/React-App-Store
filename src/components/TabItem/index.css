@@ -1,0 +1,14 @@
+.tab-button {
+  margin-right: 10px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #7b8794;
+  padding: 12px;
+}
+.isActiveTab {
+  color: hsl(221, 83%, 53%);
+  border-bottom: 2px solid #2563eb;
+}
